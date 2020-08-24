@@ -94,3 +94,4 @@ route::group(function () {
 }, function() {
     route::any('{path:#all}','IndexController@index');
 });
+
